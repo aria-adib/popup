@@ -1,0 +1,41 @@
+
+
+.pop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+    border-radius: 30px;
+    width: 400px;
+    height: 500px;
+    margin: 50px auto;
+    border: 1px solid rgb(43, 193, 20);
+    background-color: rgb(49, 232, 204);;;
+    border-radius: 20px;
+    }
+   
+
+
+.btn2 {
+    outline: none;
+    border: none;
+    background-color: rgb(12, 252, 24);
+    color: black;
+    font-size: 20px;
+    padding: 1rem 4rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+.btn2:hover {
+    background-color: rgb(32, 236, 42);
+
+}
+
+
+
+
+.pop h2,
+p {
+    text-align: center;
+}
